@@ -211,27 +211,6 @@ set(handles.graph, 'lineStyle', '-');
 
 
 % --------------------------------------------------------------------
-function menu1_Callback(hObject, eventdata, handles)
-% hObject    handle to twoDMenu (see GCBO)
-% eventdata  reserved - to be defined in a future version of MATLAB
-% handles    structure with handles and user data (see GUIDATA)
-
-
-% --------------------------------------------------------------------
-function menu2_Callback(hObject, eventdata, handles)
-% hObject    handle to threeDMenu (see GCBO)
-% eventdata  reserved - to be defined in a future version of MATLAB
-% handles    structure with handles and user data (see GUIDATA)
-
-
-% --------------------------------------------------------------------
-function asd_Callback(hObject, eventdata, handles)
-% hObject    handle to asd (see GCBO)
-% eventdata  reserved - to be defined in a future version of MATLAB
-% handles    structure with handles and user data (see GUIDATA)
-
-
-% --------------------------------------------------------------------
 function sinMenu_Callback(hObject, eventdata, handles)
 % hObject    handle to sinMenu (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
